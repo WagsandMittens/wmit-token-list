@@ -1,0 +1,18 @@
+{
+  "name": "WagsMittens Token List",
+  "timestamp": "2025-12-06T00:00:00Z",
+  "version": { "major": 1, "minor": 0, "patch": 0 },
+  "tags": {},
+  "logoURI": "https://wagsandmittens.github.io/wmit-token-list/WMIT.png",
+  "keywords": ["wmit", "wagsmittens", "base"],
+  "tokens": [
+    {
+      "chainId": 8453,
+      "address": "0x1Adb4DC6B0dAA3cBe2DdB5F9DC39B612A66fBd8E",
+      "name": "WagsMittens",
+      "symbol": "WMIT",
+      "decimals": 18,
+      "logoURI": "https://wagsandmittens.github.io/wmit-token-list/WMIT.png"
+    }
+  ]
+}
